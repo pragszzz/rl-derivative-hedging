@@ -78,9 +78,6 @@ In this simple GBM setting:
 - The PPO agent converged to a stable but sub‑optimal hedging policy, producing almost constant negative terminal PnL across simulated paths.
 - This shows that, under these assumptions and hyperparameters, PPO did **not** outperform classical hedging, highlighting the importance of reward design, model capacity, and environment complexity.
 
-A sample PnL distribution plot is shown below:
-
-![PnL distributions](results/pnl_histograms.png)
 
 ## Limitations and Future Work
 
