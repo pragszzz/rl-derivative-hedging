@@ -1,0 +1,1 @@
+print("Hello Pragati, Cursor + Python venv is working!")
